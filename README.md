@@ -42,6 +42,7 @@ brew install fzf
 $(brew --prefix)/opt/fzf/install
 # tig
 brew install tig
+cp .tigrc ~/
 # hub
 brew install hub
 # git-extras
